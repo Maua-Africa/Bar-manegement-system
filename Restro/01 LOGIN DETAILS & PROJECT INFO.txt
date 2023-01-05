@@ -1,0 +1,21 @@
+**Log on to codeastro.com for more projects!***
+
+**Database Name: rposystem**
+
+**Developed By MICHAEL KIBET **
+
+**Recommended PHP Version 7.4**
+
+
+**Admin Login Details**
+
+Email	: admin@mail.com
+Password: codeastro.com
+
+**Cashier Login Details**
+
+Email	: shiko@mail.com
+Password:shiko
+
+
+ <td>$
