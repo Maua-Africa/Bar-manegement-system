@@ -1,4 +1,4 @@
-**Log on to codeastro.com for more projects!***
+
 
 **Database Name: rposystem**
 
@@ -9,8 +9,8 @@
 
 **Admin Login Details**
 
-Email	: admin@mail.com
 Password: codeastro.com
+Email	: admin@mail.com
 
 **Cashier Login Details**
 
